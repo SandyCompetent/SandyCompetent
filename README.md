@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 What I build
-- Agentic AI systems (LangGraph, Gemini, multi-tool routing)
+- Agentic AI systems (Gemini, tool routing, orchestration)
 - NLP pipelines: text classification, RAG, fine-tuning
 - Production Flutter apps with LLM backends
 
@@ -42,4 +42,4 @@
 ---
 
 ### 📫 Reach me
-[LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · sandy.competent@gmail.com
+[LinkedIn](https://linkedin.com/in/sandeep-malviya-ml) · sandy.competent@gmail.com
