@@ -1,37 +1,64 @@
-<h1 align="center">Hey, I'm Sandeep 👋</h1>
+<div align="center">
+  <h1>Hi, I'm Sandeep Malviya 👋</h1>
+  <p>
+    <strong>Agentic AI & Machine Learning Engineer | Full-Stack AI System Builder</strong><br/>
+    🎓 <em>MSc Data Science (Distinction), University of Exeter</em> • 📍 <em>Exeter / London, United Kingdom</em>
+  </p>
 
-<p align="center">
-  Machine Learning Engineer | AI Builder | Data Scientist<br/>
-  MSc Data Science (Distinction), University of Exeter
-</p>
+  <p>
+    <a href="https://linkedin.com/in/sandeep-malviya-ml"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://sandycompetent.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:sandy.competent@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
-***
+---
 
-### 🧠 What I build
-* Agentic AI systems (Gemini, dynamic tool routing, orchestration)
-* NLP pipelines (text classification, RAG, model fine-tuning)
-* Production applications with complex LLM backends
+### 💡 About Me
 
-### 🔧 Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+I bridge the gap between **rigorous machine learning research** and **battle-tested production engineering**. With an **MSc in Data Science (Distinction)** and extensive experience architecting scalable cross-platform applications, I specialize in:
 
-### 🚀 Featured Projects
-| Project | What it does | Stack |
-|---|---|---|
-| [exeter_academic_agent](https://github.com/SandyCompetent/exeter_academic_agent) | Agentic AI with Gemini 2.5, streaming LLM, and multi-tool routing | Dart, Gemini API |
-| [Kaggle-Analysis-Showcase](https://github.com/SandyCompetent/Kaggle-Analysis-Showcase) | End-to-end DS projects with Streamlit deployments | Python, Streamlit |
-| [stock_market_analysis](https://github.com/SandyCompetent/stock_market_analysis) | Quantitative ML on financial data | Python, Jupyter |
+- 🤖 **Agentic AI & LLM Orchestration**: Designing stateful multi-agent workflows, dynamic tool routing, and grounded RAG pipelines with Google Gemini and LangChain.
+- 📈 **Predictive Machine Learning**: Multimodal forecasting, transformer fine-tuning (FinBERT, HuggingFace), and NLP pipelines.
+- 🚀 **Full-Lifecycle Production Delivery**: Developing resilient backend APIs (FastAPI), modern responsive clients (Flutter, Astro, React), and containerized deployments (Docker, GCP, AWS).
 
-### 📌 Currently Building
-* 🔬 NLP pipeline (fine-tuning transformer models for text classification)
-* 🤖 RAG system utilizing LangChain and Gemini
-* ☁️ Prepping for the Google Cloud Professional ML Engineer certification
+---
 
-### 📫 Reach me
-[LinkedIn](https://linkedin.com/in/sandeep-malviya-ml) | sandy.competent@gmail.com
+### 🛠️ Technical Arsenal
+
+| Category | Technologies & Frameworks |
+|---|---|
+| **Agentic AI & LLMs** | Google Gemini API, LangChain, RAG Pipelines, Multi-Agent Tool Routing, Prompt Engineering |
+| **ML & Data Science** | PyTorch, TensorFlow, Scikit-learn, FinBERT, Hugging Face, Pandas, NumPy, Jupyter |
+| **Backend & Cloud** | FastAPI, Python, Docker, Google Cloud Platform (GCP), AWS, GitHub Actions CI/CD |
+| **Mobile & Frontend** | Flutter (Dart), Astro, React, Tailwind CSS |
+| **Databases & Storage** | PostgreSQL, Redis, Firebase Firestore, MySQL |
+
+---
+
+### 🚀 Featured Flagship Projects
+
+| Project | Highlights & Capabilities | Stack | Links |
+|---|---|---|---|
+| **[ChatBud](https://github.com/SandyCompetent/chatbud)** | Stateful multi-agent workspace featuring 16 curated personas, on-device Grounded RAG with live APIs, and 159 passing tests. | Flutter, Firebase AI, Gemini 2.5, Dart | [Repo](https://github.com/SandyCompetent/chatbud) • [Live Demo](https://chatbud-official.web.app) |
+| **[Stock Market AI](https://github.com/SandyCompetent/stock-market-analysis)** | Multimodal forecasting platform combining technical indicators with FinBERT news sentiment, comparing LSTM, GRU, ARIMA, and SVR on Streamlit. | Python, PyTorch, FinBERT, Streamlit | [Repo](https://github.com/SandyCompetent/stock-market-analysis) • [Architecture](https://github.com/SandyCompetent/stock-market-analysis#system-architecture) |
+| **[Exeter Academic Agent](https://github.com/SandyCompetent/exeter_academic_agent)** | Agentic AI assistant with streaming LLM responses, multi-tool dynamic routing, and cross-platform Flutter client. | Dart, Gemini 2.5 API, Flutter | [Repo](https://github.com/SandyCompetent/exeter_academic_agent) • [Live Demo](https://sandycompetent.github.io/exeter_academic_agent/) |
+| **[Kaggle Analysis Showcase](https://github.com/SandyCompetent/kaggle_analysis_showcase)** | End-to-end data science projects with exploratory data analysis, predictive modeling, and interactive Streamlit web applications. | Python, Scikit-learn, Streamlit, Pandas | [Repo](https://github.com/SandyCompetent/kaggle_analysis_showcase) |
+| **[Interactive Portfolio](https://github.com/SandyCompetent/SandyCompetent.github.io)** | Personal developer portfolio featuring a live embedded Gemini AI assistant and responsive modern architecture. | Astro / React, Tailwind CSS, Gemini API | [Repo](https://github.com/SandyCompetent/SandyCompetent.github.io) • [Website](https://sandycompetent.github.io/) |
+| **[E-Voting System](https://github.com/SandyCompetent/evoting-system)** | Web-security hardening and role-based access control (RBAC) case study with SQL injection protections and audit trails. | PHP, MySQL, Bootstrap 5 | [Repo](https://github.com/SandyCompetent/evoting-system) • [Architecture](https://github.com/SandyCompetent/evoting-system) |
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SandyCompetent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandyCompetent&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</div>
+
+---
+
+### 🔭 Currently Focused On
+- 🔬 Designing hybrid RAG systems combining dense semantic retrieval and sparse BM25 reranking.
+- ☁️ Preparing for the **Google Cloud Professional Machine Learning Engineer** certification.
+- 💼 Open to Machine Learning Engineer, AI Engineer, and Senior Software Engineer roles in the UK.
